@@ -26,3 +26,7 @@ hs_err_pid*
 short-url.iml
 *.iml
 .idea
+/target/
+/.classpath
+/.project
+/.settings/
